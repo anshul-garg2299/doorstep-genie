@@ -1,6 +1,5 @@
 // Your web app's Firebase configuration
 var firebaseConfig = {
-    apiKey: "AIzaSyAs_FOtNgIKf9JKSumA3wiCx3YgXYGym4o",
     authDomain: "test-form-c309b.firebaseapp.com",
     databaseURL: "https://test-form-c309b.firebaseio.com",
     projectId: "test-form-c309b",
